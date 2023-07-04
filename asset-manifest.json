@@ -8,9 +8,9 @@
     "static/media/bg-2.png": "/faloji/static/media/bg-2.61aa84035e8ff5a95a47.png",
     "static/media/actor.svg": "/faloji/static/media/actor.a797297c8e7d7e10ec470c1e7b434f07.svg",
     "static/media/camera.svg": "/faloji/static/media/camera.d1e12252b7ace270f7aad11956065ece.svg",
+    "index.html": "/faloji/index.html",
     "static/media/collaboration.svg": "/faloji/static/media/collaboration.8ea2d379958ef60060afaad306e4dbad.svg",
-    "static/media/film.svg": "/faloji/static/media/film.3c5f4a0ab7013f5deeaa0eb7378ee97a.svg",
-    "index.html": "/faloji/index.html"
+    "static/media/film.svg": "/faloji/static/media/film.3c5f4a0ab7013f5deeaa0eb7378ee97a.svg"
   },
   "entrypoints": [
     "static/css/main.7e3ad62f.css",
